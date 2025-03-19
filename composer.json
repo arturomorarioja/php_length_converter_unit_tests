@@ -1,18 +1,5 @@
 {
-    "name": "arturo-mora-rioja/php_mysql_measure_converter",
-    "description": "Measure Converter - Sample application for assessing the use of unit tests and integration tests",
-    "type": "library",
-    "license": "CC-BY-NC-4.0",
-    "authors": [
-        {
-            "name": "Arturo Mora-Rioja",
-            "email": "amri@kea.dk"
-        }
-    ],
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
-    },
-    "scripts": {
-        "test": "vendor/bin/phpunit --colors tests"
+        "phpunit/phpunit": "^11.5"
     }
 }
